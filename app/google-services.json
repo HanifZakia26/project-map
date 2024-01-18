@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731804874052",
+    "project_id": "cfood-6d8d9",
+    "storage_bucket": "cfood-6d8d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731804874052:android:5bc62894942c825d805311",
+        "android_client_info": {
+          "package_name": "com.example.cfoodies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvvVG6CDczVIx6FSdCBkqliD0hzRGar8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
